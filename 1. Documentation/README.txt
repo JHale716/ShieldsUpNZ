@@ -1,1 +1,0 @@
-Easy 3D printed Face Shield by HanochH on Thingiverse: https://www.thingiverse.com/thing:4233193
