@@ -9,4 +9,4 @@ Layer Height_
 IF Setting_
 Adhesion (N=none, S=Skirt, B=Brim, R=Raft)
 
-ie. CE3_Shields_Up_Project_-_SUP_V1.2_0.2_N
+ie. CE3_Shields_Up_Project_-_SUP_V1.2_0.2_N.
