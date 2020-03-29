@@ -1,2 +1,2 @@
 # ShieldsUpNZ
-Source design fiels for the shield project
+Source design files for the ShieldsUp project
