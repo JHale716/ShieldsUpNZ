@@ -8,6 +8,7 @@ _File_Name_Printed_
 _Layer Height_
 _IF Setting_
 _Adhesion_ (N=none, S=Skirt, B=Brim, R=Raft)
+_Filament Type_
 _Hours_Minutes
 
-ie. CE3_Shields_Up_Project_-_SUP_V1.2_0.2_if30_4h58mins.gcode
+ie. CE3_Shields_Up_Project_-_SUP_V1.2_0.2_if30_S_PLA_4h58mins.gcode
