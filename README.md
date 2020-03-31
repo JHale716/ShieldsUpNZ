@@ -16,3 +16,5 @@ Please help spread the word on your social media by posting the link. The more w
 https://givealittle.co.nz/cause/makers-nz-covid-19-comunity-action
 
 Shields UP, Stay Safe!
+
+COVID-19 Face Shield is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. This version is by [Jase] on behalf of Shields Up and based on a work by Prusa Research, available at https://www.prusaprinters.org/social/16-prusa-research/prints.
