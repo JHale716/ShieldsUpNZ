@@ -9,6 +9,7 @@ _Layer Height_
 _IF Setting_
 _Adhesion_ (N=none, S=Skirt, B=Brim, R=Raft)
 _Filament Type_
+_Speed_
 _Hours_Minutes
 
-ie. CE3_Shields_Up_Project_-_SUP_V1.2_0.2_if30_S_PLA_4h58mins.gcode
+ie. CE3_Shields_Up_Project_-_SUP_V2_0.2_if30_S_PLA_50mm-s_4h58mins.gcode
