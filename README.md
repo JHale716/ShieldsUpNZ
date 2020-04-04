@@ -1,4 +1,4 @@
-# ShieldsUpNZ Repository 
+# ShieldsUp Repository 
 #### 3D print files and instructions to facilitate production of face shields for medical support purposes in the Covid-19 crisis
 
 ## Give-A-Little
