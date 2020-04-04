@@ -1,8 +1,4 @@
-# ShieldsUp Source design files 
-
-#### for the ShieldsUp project
-
-The raw files for the face shields, DXF files for the laser cutter.
+# ShieldsUp Archive
 
 # Shields UP, Stay Safe!
 

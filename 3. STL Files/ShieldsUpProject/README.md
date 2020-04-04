@@ -1,5 +1,7 @@
 # ShieldsUp Repository 
-#### 3D print files 
+#### 3D print files
+
+## These STL files are the current design files needed to 3D print the headband
 
 ## Give-A-Little
 Please help spread the word on your social media by posting the link. The more we have donated, the more shields we can fund for medical professionals to keep them safe so they are there to help you.
@@ -17,12 +19,6 @@ If these face shields will help keep you or your people safer, then go ahead and
 ## For Team Members 
 
 * If you are a team member and need access to the webapp, request that here --> https://shieldsup.gives/WebApp
-
-These STL files are the current design files needed to 3D print the headband
-
-* The Core files you need are in ShieldsUpProject
-* Shieled Jig is for a jig used to drill holes for visors
-* Prusa Faceshield Cover is a cover for the top of the headband to close in the gap, not generally required, some hospitals potentially will request these to be added.   
 
 ## Not a team member and what to help?
 

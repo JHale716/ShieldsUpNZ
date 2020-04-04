@@ -1,8 +1,9 @@
-# ShieldsUp Source design files 
+# ShieldsUp Repository 
+#### Beta Files
 
-#### for the ShieldsUp project
+## If you're here it's because you are doing testing.
+### Do not use these files for production yet, they may give you unexpected results.
 
-The raw files for the face shields, DXF files for the laser cutter.
 
 # Shields UP, Stay Safe!
 
