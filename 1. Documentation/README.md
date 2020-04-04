@@ -1,6 +1,5 @@
-# ShieldsUpNZ
-= General documentation =
-=== for the ShieldsUp project in New Zealand ===
+# ShieldsUp General documentation
+### for the ShieldsUp project in New Zealand
 
 * 3D Printer Settings for Headband folder contains a variety of printer settings we have found work, they are machine dependant and may not work for your specific machine, buy they are a starting point.
 * Delivery Documentation contains the documentation relating to delivering face shields.
@@ -12,11 +11,11 @@
 
 * zArchive folders, there are a number around, these contain superceeded material for backup, version control and roll back purposes, as well as helping with the historical record of the project.
 
-== Give-A-Little ==
+## Give-A-Little
 Please help spread the word on your social media by posting the link. The more we have, the more shields we can fund for medical professionals.
 www.shieldsup.gives/give-a-little
 
-=== Links to places you may be looking for ===
+### Links to places you may be looking for
 
 * If you are a medical practice and you need face shields, request them here --> https://shieldsup.gives/request-shields
 * If you are a team member and need access to the webapp, request that here --> https://shieldsup.gives/WebApp
