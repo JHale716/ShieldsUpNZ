@@ -7,7 +7,7 @@
 * _File Name Printed_
 * _Xup_ (number of frames in the print, omitted equals 1) 
 * _Layer Height_
-* _IF Setting_
+* _Infill Setting_
 * _Adhesion_ (N=none, S=Skirt, B=Brim, R=Raft)
 * _Filament Type_
 * _Speed_
