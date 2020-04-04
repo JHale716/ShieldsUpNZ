@@ -19,5 +19,12 @@ www.shieldsup.gives/give-a-little
 
 * If you are a medical practice and you need face shields, request them here --> https://shieldsup.gives/request-shields
 * If you are a team member and need access to the webapp, request that here --> https://shieldsup.gives/WebApp
-* The Disinfection Prusa Guide is here --> http://www.shieldsup.gives/disinfection
+* The Prusa Disinfection Guide is here --> http://www.shieldsup.gives/disinfection
 
+## Not a team member and what to help?
+
+If you are interested in more information about what we are doing or you want to help out, please contact us through our website https://shieldsup.org.nz/
+
+# Shields UP, Stay Safe!
+
+COVID-19 Face Shield is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. This version is by [Jase] on behalf of Shields Up and based on a work by Prusa Research, available at https://www.prusaprinters.org/social/16-prusa-research/prints.
