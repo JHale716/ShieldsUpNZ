@@ -1,4 +1,4 @@
-#Ender 3/3 Pro (Same machine for printing purposes) 
+# Ender 3/3 Pro (Same machine for printing purposes) 
 
 ## PLA 0.4mm print nozzle 
 * eSun PLA & PLA+ various colours
