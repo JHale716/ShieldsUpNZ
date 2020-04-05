@@ -3,6 +3,13 @@
 
 Print time is about 3.5 hours.
 
+## Vacuum cleaner bags are not HEPA filters
+Vacuum bags are designed to filter out dust particles granted, at the same time they are referred to as micro filtering rather than HEPA.
+HEPA filters are high efficency and usually located after the vacuum motor on the exhaust of the vaccum cleaner. These are mostly a paper based filter in a frame.
+While a good quality vacuum bag is likely to help, it is not certified to be as efficent at filtering as a genuine HEPA filter.
+
+* The exact specifications of Vacuum bags are difficult to find, and sticking to brand name replacement S-Type bags is likely to be the more secure approach.
+
 ## Give-A-Little
 Please help spread the word on your social media by posting the link. The more we have donated, the more shields we can fund for medical professionals to keep them safe so they are there to help you.
 www.shieldsup.gives/give-a-little
