@@ -9,22 +9,21 @@
 * 0.4mm layer width/nozzle
 * 80mm/s speed
 * 30% infill
-* Cubic infill pattern - strong and print speed neutral to other settings.
+* Cubic infill pattern - strong and print speed neutral to other infil settings.
 
 4 hours 06 mins actual printing time just the headband
 
-## PETg 0.4mm print nozzle 
+## PETg 0.4mm print nozzle
 * Marvle3D PETg in Yellow
-* 240°C hotend
+* 255°C hotend
 * 69°C bed
 * Cooling fan 50%
-* 0.2mm layer height
+* 0.25mm layer height
 * 0.4mm layer width/nozzle
-* 60mm/s speed
-* 30% infill
-* Cubic infill pattern - strong and print speed neutral to other settings.
+* 50mm/s speed
+* 0% infill
 
-3 hours 36 mins actual printing time just the headband
+1 hours 52 mins actual printing time just the headband
 
 ## Experimental settings:
 
@@ -64,12 +63,9 @@
 * Increase temp - 260°C didn't improve
 * Weaker construction, layer seperation and easily damaged. Almost brittle.
 
-
 ### Conclusions:
 * Increase outer wall speed to printing speed, most effective increase in speed
 * Increase layer height, needs increase in Hotend Temp for extruder to keep up.
-
-
 
 # Shields UP, Stay Safe!
 
