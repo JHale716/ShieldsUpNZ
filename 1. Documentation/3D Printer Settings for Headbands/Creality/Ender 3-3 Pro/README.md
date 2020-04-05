@@ -2,8 +2,8 @@
 
 ## PLA 0.4mm print nozzle 
 * eSun PLA & PLA+ various colours
-* 205C hotend
-* 62C bed
+* 205°C hotend
+* 62°C bed
 * Cooling fan on
 * 0.2mm layer height
 * 0.4mm layer width/nozzle
@@ -15,8 +15,8 @@
 
 ## PETg 0.4mm print nozzle 
 * Marvle3D PETg in Yellow
-* 240C hotend
-* 69C bed
+* 240°C hotend
+* 69°C bed
 * Cooling fan 50%
 * 0.2mm layer height
 * 0.4mm layer width/nozzle
@@ -32,7 +32,7 @@
 * Marvle3D PETg in Yellow
 * No infill
 * Issues discovered, extruder skipping and nozzle jamming
-* Increase temp - 260degC didn't improve
+* Increase temp - 260°C didn't improve
 * Increased stringing and layer seperation.
 * 60mm/s print speed inner and outer walls
 * Projected Print Time 1 hour 08 minutes
@@ -41,7 +41,7 @@
 * Marvle3D PETg in Yellow
 * No infill
 * Issues discovered, extruder skipping
-* Increase temp - 260degC didn't improve
+* Increase temp - 260°C didn't improve
 * Increased stringing and layer seperation.
 * 50mm/s print speed inner and outer walls
 * Projected Print Time 1 hour 24 minutes
@@ -50,7 +50,7 @@
 * Marvle3D PETg in Yellow
 * No infill 
 * Issues discovered, extruder skipping
-* Increase temp - 255degC extruder skipping stopped
+* Increase temp - 255°C extruder skipping stopped
 * Increased stringing and layer seperation, 1st run, though with less walls and standard layer width, 0.40mm. Poor strength.
 * 50mm/s print speed inner and outer walls
 * Projected Print Time 1 hour 32 minutes
@@ -61,7 +61,7 @@
 * Marvle3D PETg in Yellow
 * 0.60mm layer width, 3 walls instead of 4.
 * Issues discovered, extruder skipping (all) and nozzle jamming (0.30mm)
-* Increase temp - 260degC didn't improve
+* Increase temp - 260°C didn't improve
 * Weaker construction, layer seperation and easily damaged. Almost brittle.
 
 
