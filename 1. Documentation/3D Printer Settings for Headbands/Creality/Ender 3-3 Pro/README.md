@@ -1,6 +1,7 @@
 #Ender 3/3 Pro (Same machine for printing purposes) 
 
 ## PLA 0.4mm print nozzle 
+* eSun PLA & PLA+ various colours
 * 205C hotend
 * 62C bed
 * Cooling fan on
@@ -13,6 +14,7 @@
 4 hours 06 mins actual printing time just the headband
 
 ## PETg 0.4mm print nozzle 
+* Marvle3D PETg in Yellow
 * 240C hotend
 * 69C bed
 * Cooling fan 50%
@@ -27,6 +29,7 @@
 ## Experimental settings:
 
 ### Increase Layer Height: 0.30mm
+* Marvle3D PETg in Yellow
 * No infill
 * Issues discovered, extruder skipping and nozzle jamming
 * Increase temp - 260degC didn't improve
@@ -35,6 +38,7 @@
 * Projected Print Time 1 hour 08 minutes
 
 ### Increase Layer Height: 0.27mm
+* Marvle3D PETg in Yellow
 * No infill
 * Issues discovered, extruder skipping
 * Increase temp - 260degC didn't improve
@@ -43,6 +47,7 @@
 * Projected Print Time 1 hour 24 minutes
 
 ### Increase Layer Height: 0.25mm
+* Marvle3D PETg in Yellow
 * No infill 
 * Issues discovered, extruder skipping
 * Increase temp - 255degC extruder skipping stopped
@@ -50,9 +55,10 @@
 * 50mm/s print speed inner and outer walls
 * Projected Print Time 1 hour 32 minutes
 * Rerunning with 4 layer walls same setting
-* Projected Print Time 1 hour 52 minutes
+* Projected Print Time 1 hour 52 minutes. Projected 1.5 hour saving in time. 
 
 ### Less walls and over extruding 0.25mm, 0.27mm, & 0.30mm layer heights
+* Marvle3D PETg in Yellow
 * 0.60mm layer width, 3 walls instead of 4.
 * Issues discovered, extruder skipping (all) and nozzle jamming (0.30mm)
 * Increase temp - 260degC didn't improve
