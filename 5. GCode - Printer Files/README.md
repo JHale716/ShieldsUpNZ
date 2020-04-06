@@ -12,8 +12,10 @@
 * _Filament Type_
 * _Speed_
 * _Hours Minutes_
+* _E-TempC_ Extruder Temp
+* _B-TempC_ Bed/Base Temp
 
-ie. CE3_Shields_Up_Project_-_SUP_V2__2up_0.2_if30_S_PLA_50mm-s_4h58mins.gcode
+ie. CE3_Shields_Up_Project_-_SUP_V2__2up_0.2_if30_S_PLA_50mm-s_4h58mins_E-215C_B-62C.gcode
 * Creality Ender 3
 * Shields_Up_Project_-_SUP_V2
 * 2 Frames in the print
@@ -23,6 +25,14 @@ ie. CE3_Shields_Up_Project_-_SUP_V2__2up_0.2_if30_S_PLA_50mm-s_4h58mins.gcode
 * PLA filament
 * 50mm/s print speed
 * 4hours 58 minutes expected print time. 
+* Extruder at 215degC
+* Base/Bed at 62degC
+
+## If you are using Cura
+Install the plugin Gdoe filename format plugin. 
+After install and restart it will appear in your extensions menu.
+
+This configuration will give you this filing format when you "Edit Format" and paste this in -> [base_name]_[layer_height]_if[infill_sparse_density]_[adhesion_type]_[material]_[speed_print]mm-s_[print_time_hours]h[print_time_minutes]mins_E-[material_print_temperature]C_B-[material_bed_temperature]C
 
 # Shields UP, Stay Safe!
 
