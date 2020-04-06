@@ -29,10 +29,14 @@ ie. CE3_Shields_Up_Project_-_SUP_V2__2up_0.2_if30_S_PLA_50mm-s_4h58mins_E-215C_B
 * Base/Bed at 62degC
 
 ## If you are using Cura
-Install the plugin Gdoe filename format plugin. 
+A useful plugin for the Cura slicer that will assist in keeping track of gcodes you produce.
+
+Install the plugin Gcode filename format plugin. In the market place top right of your screen.
 After install and restart it will appear in your extensions menu.
 
-This configuration will give you this filing format when you "Edit Format" and paste this in -> [base_name]_[layer_height]_if[infill_sparse_density]_[adhesion_type]_[material]_[speed_print]mm-s_[print_time_hours]h[print_time_minutes]mins_E-[material_print_temperature]C_B-[material_bed_temperature]C
+This configuration will give you the filing format we're asking for in the GitHub Repo, when you select the plugin and "Edit Format" and paste this in -> [base_name]_[layer_height]_if[infill_sparse_density]_[adhesion_type]_[material]_[speed_print]mm-s_[print_time_hours]h[print_time_minutes]mins_E-[material_print_temperature]C_B-[material_bed_temperature]C
+
+If you have working gcodes and you're on printers other than the UM2/UM2+/ UM5, Ender 3/3Pro, please send J-P Hale a copy in Slack so we can load into GitHub for newbies to help get them going quicker. 
 
 # Shields UP, Stay Safe!
 
