@@ -8,14 +8,14 @@
 * _Xup_ (number of frames in the print, omitted equals 1) 
 * _Layer Height_
 * _Infill Setting_
-* _Adhesion_ (N=none, S=Skirt, B=Brim, R=Raft)
+* _Adhesion_ (none, skirt, brim, raft)
 * _Filament Type_
 * _Speed_
 * _Hours Minutes_
 * _E-TempC_ Extruder Temp
 * _B-TempC_ Bed/Base Temp
 
-ie. CE3_Shields_Up_Project_-_SUP_V2__2up_0.2_if30_S_PLA_50mm-s_4h58mins_E-215C_B-62C.gcode
+ie. CE3_Shields_Up_Project_-_SUP_V2__2up_0.2_if30_skirt_PLA_50mm-s_4h58mins_E-215C_B-62C.gcode
 * Creality Ender 3
 * Shields_Up_Project_-_SUP_V2
 * 2 Frames in the print
