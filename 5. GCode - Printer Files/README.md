@@ -15,15 +15,15 @@
 * _E-TempC_ Extruder Temp
 * _B-TempC_ Bed/Base Temp
 
-ie. CE3_Shields_Up_Project_-_SUP_V2__2up_0.2_if30_skirt_PLA_50mm-s_4h58mins_E-215C_B-62C.gcode
+ie. CE3_SUP_V2.1-b_2up_0.27_if0_none_PLA_60mm-s_4h58mins_E-215C_B-62C.gcode
 * Creality Ender 3
-* Shields_Up_Project_-_SUP_V2
+* SUP_V2.1-b (b=brim on supports, n=no brim on supports) 
 * 2 Frames in the print
-* 0.20mm layer height
-* Infill 30%
-* Skirt
+* 0.27mm layer height
+* Infill 0%
+* No bed adhesion
 * PLA filament
-* 50mm/s print speed
+* 60mm/s print speed
 * 4hours 58 minutes expected print time. 
 * Extruder at 215degC
 * Base/Bed at 62degC
